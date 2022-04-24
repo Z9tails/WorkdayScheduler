@@ -26,7 +26,11 @@ THEN the saved events persist
 
 ## Purpose
 
-*A Web Based interface to provide a day scheduler. Information will persist in local storage, Grey *indicates hours that have gone past, Red is the current time, Green is future time. 
+A Web Based interface to provide a day scheduler. Information will persist in local storage, Greyindicates hours that have gone past, Red is the current time, Green is future time. 
+
+## Screenshot
+
+![Challenge5 Day Scheduler](https://user-images.githubusercontent.com/100103488/164988038-4db42346-7f61-466b-8d21-66b742d4a628.png)
 
 
 ## Built With The Following
@@ -38,10 +42,12 @@ THEN the saved events persist
 
 ## Deployed Website
 
+* https://z9tails.github.io/WorkdayScheduler/
 
 
 ## Repository
 
+* https://github.com/Z9tails/WorkdayScheduler.git
 
 ## License
 
